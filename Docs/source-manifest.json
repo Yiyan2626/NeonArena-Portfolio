@@ -1,0 +1,626 @@
+[
+  {
+    "publicPath": "Code/Runtime/ArenaAudio.cs",
+    "sourcePath": "Assets/NeonArena/Scripts/ArenaAudio.cs",
+    "sourceCommit": "194552fa4946abbb4e2642f084f801e4f58806e2",
+    "sha256": "8c577c7ee85ebb4411587fca227cfb665d79642137c7020912c6718a600c4c99"
+  },
+  {
+    "publicPath": "Code/Runtime/ArenaCamera.cs",
+    "sourcePath": "Assets/NeonArena/Scripts/ArenaCamera.cs",
+    "sourceCommit": "194552fa4946abbb4e2642f084f801e4f58806e2",
+    "sha256": "6b40adfec586dd16e56478cf88d7013f5de1acfa6bac615ef1736e4ffd022133"
+  },
+  {
+    "publicPath": "Code/Runtime/ArenaGame.cs",
+    "sourcePath": "Assets/NeonArena/Scripts/ArenaGame.cs",
+    "sourceCommit": "194552fa4946abbb4e2642f084f801e4f58806e2",
+    "sha256": "85c4f6e93a0e681acc7b34f97cb2fd11b96eecbc12bd96a6e9b6fdde6982790a"
+  },
+  {
+    "publicPath": "Code/Runtime/ArenaHUD.cs",
+    "sourcePath": "Assets/NeonArena/Scripts/ArenaHUD.cs",
+    "sourceCommit": "194552fa4946abbb4e2642f084f801e4f58806e2",
+    "sha256": "8ad7269ffc7e8570a56dc2c9b7458037209eadaade16c1d3ce427f699bc4cd0d"
+  },
+  {
+    "publicPath": "Code/Runtime/ArenaMinimap.cs",
+    "sourcePath": "Assets/NeonArena/Scripts/ArenaMinimap.cs",
+    "sourceCommit": "194552fa4946abbb4e2642f084f801e4f58806e2",
+    "sha256": "7d30511ba13dfd0355dd19e409dfd73fe1ef4e76e50e374386b91f67097d0559"
+  },
+  {
+    "publicPath": "Code/Runtime/ArenaTerrain.cs",
+    "sourcePath": "Assets/NeonArena/Scripts/ArenaTerrain.cs",
+    "sourceCommit": "194552fa4946abbb4e2642f084f801e4f58806e2",
+    "sha256": "83bfee73adad69c4b4d8435ef97386704a0759493c538824a0a5365d88ac35be"
+  },
+  {
+    "publicPath": "Code/Runtime/ArenaTheme.cs",
+    "sourcePath": "Assets/NeonArena/Scripts/ArenaTheme.cs",
+    "sourceCommit": "194552fa4946abbb4e2642f084f801e4f58806e2",
+    "sha256": "ddd16fba8cebb2c25f6a31d51278fe43794dad18b33751357d43b125e54153d2"
+  },
+  {
+    "publicPath": "Code/Runtime/ArenaVision.cs",
+    "sourcePath": "Assets/NeonArena/Scripts/ArenaVision.cs",
+    "sourceCommit": "194552fa4946abbb4e2642f084f801e4f58806e2",
+    "sha256": "d4f7948625926c9ba310c33ad5fde4b9668f26e6efc63198e71cf4ed7f0773ca"
+  },
+  {
+    "publicPath": "Code/Runtime/BrushPatch.cs",
+    "sourcePath": "Assets/NeonArena/Scripts/BrushPatch.cs",
+    "sourceCommit": "194552fa4946abbb4e2642f084f801e4f58806e2",
+    "sha256": "d87f11c076fbea015829bbee2a9229af14bee4e895f01b9eacbd6ae0aa169662"
+  },
+  {
+    "publicPath": "Code/Runtime/BurstCycle.cs",
+    "sourcePath": "Assets/NeonArena/Scripts/BurstCycle.cs",
+    "sourceCommit": "194552fa4946abbb4e2642f084f801e4f58806e2",
+    "sha256": "7eec0a4ce528e422b2f45707fdd762bb970d48dfc5b998bde97b2d7b82a6f106"
+  },
+  {
+    "publicPath": "Code/Runtime/CameraOccluder.cs",
+    "sourcePath": "Assets/NeonArena/Scripts/CameraOccluder.cs",
+    "sourceCommit": "194552fa4946abbb4e2642f084f801e4f58806e2",
+    "sha256": "d514bf0208b4fa315cd37d45bed8ceb4bb759d82e8f2312ac7512940a788b7c6"
+  },
+  {
+    "publicPath": "Code/Runtime/CharacterModel.cs",
+    "sourcePath": "Assets/NeonArena/Scripts/CharacterModel.cs",
+    "sourceCommit": "194552fa4946abbb4e2642f084f801e4f58806e2",
+    "sha256": "2903047d0d0d0cb1d7bc98083db3a780d6911d6c6570e051d6fc3a4d263c86cc"
+  },
+  {
+    "publicPath": "Code/Runtime/CharacterMotion.cs",
+    "sourcePath": "Assets/NeonArena/Scripts/CharacterMotion.cs",
+    "sourceCommit": "194552fa4946abbb4e2642f084f801e4f58806e2",
+    "sha256": "88fae2a27ffa34691e345d9eb5077e3a9134b26cfcd04a0422fb1c88a781e56c"
+  },
+  {
+    "publicPath": "Code/Runtime/CityFountain.cs",
+    "sourcePath": "Assets/NeonArena/Scripts/CityFountain.cs",
+    "sourceCommit": "194552fa4946abbb4e2642f084f801e4f58806e2",
+    "sha256": "101fa6608019d81755c21e8f481099d2a0e545e33674577aa99d9bac9e31bab0"
+  },
+  {
+    "publicPath": "Code/Runtime/CityOperation.cs",
+    "sourcePath": "Assets/NeonArena/Scripts/CityOperation.cs",
+    "sourceCommit": "194552fa4946abbb4e2642f084f801e4f58806e2",
+    "sha256": "971796a12478a33238179b0a1b67f66e6b7420ae8b876d58ba6f6ed362244cbe"
+  },
+  {
+    "publicPath": "Code/Runtime/CityRelay.cs",
+    "sourcePath": "Assets/NeonArena/Scripts/CityRelay.cs",
+    "sourceCommit": "194552fa4946abbb4e2642f084f801e4f58806e2",
+    "sha256": "9a2ba1320e09987ce0bf78a6e45d89bbf07106dac4f52aa6d7ec01c757baf777"
+  },
+  {
+    "publicPath": "Code/Runtime/CombatCinema.cs",
+    "sourcePath": "Assets/NeonArena/Scripts/CombatCinema.cs",
+    "sourceCommit": "194552fa4946abbb4e2642f084f801e4f58806e2",
+    "sha256": "04d7b342e1923b9975a8fc2419a35896c38de0cae5682366d48cdf43b66857ed"
+  },
+  {
+    "publicPath": "Code/Runtime/CombatFeedback.cs",
+    "sourcePath": "Assets/NeonArena/Scripts/CombatFeedback.cs",
+    "sourceCommit": "194552fa4946abbb4e2642f084f801e4f58806e2",
+    "sha256": "80885386fc244abc393da4dcfccba2720e321916a575f4a95623a7411bfabb40"
+  },
+  {
+    "publicPath": "Code/Runtime/CombatFocus.cs",
+    "sourcePath": "Assets/NeonArena/Scripts/CombatFocus.cs",
+    "sourceCommit": "194552fa4946abbb4e2642f084f801e4f58806e2",
+    "sha256": "e36c6068d9a7b22dac9d9eb5e6727721fa329abdb28b6161d1efaf2e9b6a79f3"
+  },
+  {
+    "publicPath": "Code/Runtime/CombatPresentation.cs",
+    "sourcePath": "Assets/NeonArena/Scripts/CombatPresentation.cs",
+    "sourceCommit": "194552fa4946abbb4e2642f084f801e4f58806e2",
+    "sha256": "7f1e335e236b7e461748b59ec93fde8d9139cbba2ce5c1288c62402025a11efd"
+  },
+  {
+    "publicPath": "Code/Runtime/CombatTrace.cs",
+    "sourcePath": "Assets/NeonArena/Scripts/CombatTrace.cs",
+    "sourceCommit": "194552fa4946abbb4e2642f084f801e4f58806e2",
+    "sha256": "9c6b4f000b843992e506176954984e9cd52c7888e48d73f4b0b814bfd2ce19c2"
+  },
+  {
+    "publicPath": "Code/Runtime/CombatVfx027.cs",
+    "sourcePath": "Assets/NeonArena/Scripts/CombatVfx027.cs",
+    "sourceCommit": "194552fa4946abbb4e2642f084f801e4f58806e2",
+    "sha256": "c69bc3b60f3c55903a62afac4f2ab1627c30c0fa3665b7d4dda20d5df1e871c5"
+  },
+  {
+    "publicPath": "Code/Runtime/CutawayRoof.cs",
+    "sourcePath": "Assets/NeonArena/Scripts/CutawayRoof.cs",
+    "sourceCommit": "194552fa4946abbb4e2642f084f801e4f58806e2",
+    "sha256": "d64694f821165eeb1aa0fec8db9902ac3b317ee8e565301cc8b3a9b95c8510ac"
+  },
+  {
+    "publicPath": "Code/Runtime/DefeatPose.cs",
+    "sourcePath": "Assets/NeonArena/Scripts/DefeatPose.cs",
+    "sourceCommit": "194552fa4946abbb4e2642f084f801e4f58806e2",
+    "sha256": "06b0d99d5c7f02c70b414ff5aa686fc59bcc9ed6e6b5b3eba6ec6af0486d183c"
+  },
+  {
+    "publicPath": "Code/Runtime/EliteWarden.cs",
+    "sourcePath": "Assets/NeonArena/Scripts/EliteWarden.cs",
+    "sourceCommit": "194552fa4946abbb4e2642f084f801e4f58806e2",
+    "sha256": "7c66d5e69bc53bbc86bddec343263e6e11515b88b7f039a9f77f830097842b7d"
+  },
+  {
+    "publicPath": "Code/Runtime/EnemyCharge.cs",
+    "sourcePath": "Assets/NeonArena/Scripts/EnemyCharge.cs",
+    "sourceCommit": "194552fa4946abbb4e2642f084f801e4f58806e2",
+    "sha256": "66dc4acac56ea2f5d3baa19abe9e31e5c199d77abe93c32e2be49ff1535cd8de"
+  },
+  {
+    "publicPath": "Code/Runtime/EnemyController.cs",
+    "sourcePath": "Assets/NeonArena/Scripts/EnemyController.cs",
+    "sourceCommit": "194552fa4946abbb4e2642f084f801e4f58806e2",
+    "sha256": "e23432dbd2ce67779a8206731d79de80c8148aed8fb453b7a026b09ac6360d4c"
+  },
+  {
+    "publicPath": "Code/Runtime/EnemyRanged.cs",
+    "sourcePath": "Assets/NeonArena/Scripts/EnemyRanged.cs",
+    "sourceCommit": "194552fa4946abbb4e2642f084f801e4f58806e2",
+    "sha256": "e9f1da30f4a7e92cd6cb1acde66ec891c9bc441bedb5f765f96c3748f7a486d4"
+  },
+  {
+    "publicPath": "Code/Runtime/EnemyShield.cs",
+    "sourcePath": "Assets/NeonArena/Scripts/EnemyShield.cs",
+    "sourceCommit": "194552fa4946abbb4e2642f084f801e4f58806e2",
+    "sha256": "83f8fb734101fc0c12e15b29ee1325ee4e153c8e17861ce5b22fb09b3e9edbcf"
+  },
+  {
+    "publicPath": "Code/Runtime/EnemySpawnPresentation.cs",
+    "sourcePath": "Assets/NeonArena/Scripts/EnemySpawnPresentation.cs",
+    "sourceCommit": "194552fa4946abbb4e2642f084f801e4f58806e2",
+    "sha256": "ce3a76e1be93775541c6c7700b2818822e6bd26950d7ceccbd804126e33988a5"
+  },
+  {
+    "publicPath": "Code/Runtime/FieldGlassBackdrop024.cs",
+    "sourcePath": "Assets/NeonArena/Scripts/FieldGlassBackdrop024.cs",
+    "sourceCommit": "194552fa4946abbb4e2642f084f801e4f58806e2",
+    "sha256": "37d0f4f64e2109e00ffb12b09489ef9453be4dc565aaf8cd1fb3efdd246f16b5"
+  },
+  {
+    "publicPath": "Code/Runtime/FieldGlassGraphic.cs",
+    "sourcePath": "Assets/NeonArena/Scripts/FieldGlassGraphic.cs",
+    "sourceCommit": "194552fa4946abbb4e2642f084f801e4f58806e2",
+    "sha256": "84bd3898cce795e69edee7f8dee71cd8d720d76c8ae8d7979582b3ab28b31dcf"
+  },
+  {
+    "publicPath": "Code/Runtime/FieldUI.cs",
+    "sourcePath": "Assets/NeonArena/Scripts/FieldUI.cs",
+    "sourceCommit": "194552fa4946abbb4e2642f084f801e4f58806e2",
+    "sha256": "16de28f41990cc8d2136b6148f9fa63e92f209f119ab8e9e146b9524426d44ee"
+  },
+  {
+    "publicPath": "Code/Runtime/FoundryDressing.cs",
+    "sourcePath": "Assets/NeonArena/Scripts/FoundryDressing.cs",
+    "sourceCommit": "194552fa4946abbb4e2642f084f801e4f58806e2",
+    "sha256": "697d883a513531cfeb3c851f0483ff89857478debe2b8e62fa27e98eb2e70e06"
+  },
+  {
+    "publicPath": "Code/Runtime/FrontEnd.cs",
+    "sourcePath": "Assets/NeonArena/Scripts/FrontEnd.cs",
+    "sourceCommit": "194552fa4946abbb4e2642f084f801e4f58806e2",
+    "sha256": "8b122bc4db2f6fa298cf9527d30fc1f139316acb5baf9ade6e2a8b3f1dc00c08"
+  },
+  {
+    "publicPath": "Code/Runtime/FrontierAmmoCarousel024.cs",
+    "sourcePath": "Assets/NeonArena/Scripts/FrontierAmmoCarousel024.cs",
+    "sourceCommit": "194552fa4946abbb4e2642f084f801e4f58806e2",
+    "sha256": "cf807ff2a06614d0170943451514990d486d3a743b10009ecde7007b4cdb2333"
+  },
+  {
+    "publicPath": "Code/Runtime/FrontierAnnex029.cs",
+    "sourcePath": "Assets/NeonArena/Scripts/FrontierAnnex029.cs",
+    "sourceCommit": "194552fa4946abbb4e2642f084f801e4f58806e2",
+    "sha256": "0d10e511699ed817f7d195d14796b014a05a76e6864914ef0bac28e45cf43c70"
+  },
+  {
+    "publicPath": "Code/Runtime/FrontierBoss.cs",
+    "sourcePath": "Assets/NeonArena/Scripts/FrontierBoss.cs",
+    "sourceCommit": "194552fa4946abbb4e2642f084f801e4f58806e2",
+    "sha256": "98e1ca078dd2908e8743a87ae5c8593039c246a902af4b829dda04678fda2b07"
+  },
+  {
+    "publicPath": "Code/Runtime/FrontierCampaign.cs",
+    "sourcePath": "Assets/NeonArena/Scripts/FrontierCampaign.cs",
+    "sourceCommit": "194552fa4946abbb4e2642f084f801e4f58806e2",
+    "sha256": "cb025c87e23eec47ba73ecca7f202495359e58c5442a81fbff48a955854d57bb"
+  },
+  {
+    "publicPath": "Code/Runtime/FrontierCombatFx.cs",
+    "sourcePath": "Assets/NeonArena/Scripts/FrontierCombatFx.cs",
+    "sourceCommit": "194552fa4946abbb4e2642f084f801e4f58806e2",
+    "sha256": "1a434eff112d29b3826ca2ababe600976ec53f9a30ec891c5cf0ab8f4ea36758"
+  },
+  {
+    "publicPath": "Code/Runtime/FrontierCombatReadability.cs",
+    "sourcePath": "Assets/NeonArena/Scripts/FrontierCombatReadability.cs",
+    "sourceCommit": "194552fa4946abbb4e2642f084f801e4f58806e2",
+    "sha256": "ecc6353cd519a270cb44cb592656c8d37d9069c3f89c280af854d626f84941de"
+  },
+  {
+    "publicPath": "Code/Runtime/FrontierGuidance.cs",
+    "sourcePath": "Assets/NeonArena/Scripts/FrontierGuidance.cs",
+    "sourceCommit": "194552fa4946abbb4e2642f084f801e4f58806e2",
+    "sha256": "ab29fd91eabb8ed39bc3a36c2dacdefa723a77b784360e2ba5284d603aeb6e42"
+  },
+  {
+    "publicPath": "Code/Runtime/FrontierHUD.cs",
+    "sourcePath": "Assets/NeonArena/Scripts/FrontierHUD.cs",
+    "sourceCommit": "194552fa4946abbb4e2642f084f801e4f58806e2",
+    "sha256": "8b63a7e32456f547e8cfbbf5c9be055c503992726db43a866f4670f8c519eb85"
+  },
+  {
+    "publicPath": "Code/Runtime/FrontierMortar.cs",
+    "sourcePath": "Assets/NeonArena/Scripts/FrontierMortar.cs",
+    "sourceCommit": "194552fa4946abbb4e2642f084f801e4f58806e2",
+    "sha256": "245bad9ebfcde041e8ffcb11fcb3b5746d6c88342e7c1bebb088b436859d5574"
+  },
+  {
+    "publicPath": "Code/Runtime/FrontierRunMetrics.cs",
+    "sourcePath": "Assets/NeonArena/Scripts/FrontierRunMetrics.cs",
+    "sourceCommit": "194552fa4946abbb4e2642f084f801e4f58806e2",
+    "sha256": "e19aba78a6ac737e05c34a8fbcb485e71cd1cb6de238cb04425ddff8475f7135"
+  },
+  {
+    "publicPath": "Code/Runtime/FrontierScenePolish028.cs",
+    "sourcePath": "Assets/NeonArena/Scripts/FrontierScenePolish028.cs",
+    "sourceCommit": "194552fa4946abbb4e2642f084f801e4f58806e2",
+    "sha256": "48e648dcf8f7a806deb36f29deaf6570b14501270a9cf73a5cc3953cdf636530"
+  },
+  {
+    "publicPath": "Code/Runtime/FrontierTactics030.cs",
+    "sourcePath": "Assets/NeonArena/Scripts/FrontierTactics030.cs",
+    "sourceCommit": "194552fa4946abbb4e2642f084f801e4f58806e2",
+    "sha256": "abbc3aa69775f4bd73c1cdfc8f8120fe1fe0ebca1a6cbc436e652899f0ff10a2"
+  },
+  {
+    "publicPath": "Code/Runtime/Health.cs",
+    "sourcePath": "Assets/NeonArena/Scripts/Health.cs",
+    "sourceCommit": "194552fa4946abbb4e2642f084f801e4f58806e2",
+    "sha256": "a0b363adc0fac0e0909826953f2c46da2d7a983500d14932a28521d02c7093ae"
+  },
+  {
+    "publicPath": "Code/Runtime/HealthDrops.cs",
+    "sourcePath": "Assets/NeonArena/Scripts/HealthDrops.cs",
+    "sourceCommit": "194552fa4946abbb4e2642f084f801e4f58806e2",
+    "sha256": "256b2ad906ebdd90d416de7d6f824a52d3def6b4eb78529042722ff91c15bd95"
+  },
+  {
+    "publicPath": "Code/Runtime/HitFlash.cs",
+    "sourcePath": "Assets/NeonArena/Scripts/HitFlash.cs",
+    "sourceCommit": "194552fa4946abbb4e2642f084f801e4f58806e2",
+    "sha256": "6ab7e2a426ba32e8edd66821dffcf0814d2985249766b904a54de68fac8dcab3"
+  },
+  {
+    "publicPath": "Code/Runtime/ImpactPool.cs",
+    "sourcePath": "Assets/NeonArena/Scripts/ImpactPool.cs",
+    "sourceCommit": "194552fa4946abbb4e2642f084f801e4f58806e2",
+    "sha256": "ecd87de4e54f13d7e8e0cf7f23288b57bc348f8b4d4321748856a2620916e8f2"
+  },
+  {
+    "publicPath": "Code/Runtime/LaserBeam.cs",
+    "sourcePath": "Assets/NeonArena/Scripts/LaserBeam.cs",
+    "sourceCommit": "194552fa4946abbb4e2642f084f801e4f58806e2",
+    "sha256": "4bebf796dfaca3af20d982aa482927b89a2f59ad6a500c54e248126f9946cc28"
+  },
+  {
+    "publicPath": "Code/Runtime/MenuGlassPose024.cs",
+    "sourcePath": "Assets/NeonArena/Scripts/MenuGlassPose024.cs",
+    "sourceCommit": "194552fa4946abbb4e2642f084f801e4f58806e2",
+    "sha256": "9a05ac5a6193779fcf959aad478c1c21fcb9ea840e7cf5772db28ec6cc2d5c2c"
+  },
+  {
+    "publicPath": "Code/Runtime/MenuPresentation022.cs",
+    "sourcePath": "Assets/NeonArena/Scripts/MenuPresentation022.cs",
+    "sourceCommit": "194552fa4946abbb4e2642f084f801e4f58806e2",
+    "sha256": "82eb6fbd536c038795cc3386fcafedbdd1108b5a2aaaf22c389f3d684784e2d7"
+  },
+  {
+    "publicPath": "Code/Runtime/MenuShowcase023.cs",
+    "sourcePath": "Assets/NeonArena/Scripts/MenuShowcase023.cs",
+    "sourceCommit": "194552fa4946abbb4e2642f084f801e4f58806e2",
+    "sha256": "9a85106b5142750b4800d7f0cadbe79ce4ca2a004ed01f542deaa7087c3380bf"
+  },
+  {
+    "publicPath": "Code/Runtime/MenuSlider024.cs",
+    "sourcePath": "Assets/NeonArena/Scripts/MenuSlider024.cs",
+    "sourceCommit": "194552fa4946abbb4e2642f084f801e4f58806e2",
+    "sha256": "932a63efe01bdb259f21b8d9ef1d0dde7dca9beafc64a6e09928781509b27834"
+  },
+  {
+    "publicPath": "Code/Runtime/PlayerController.cs",
+    "sourcePath": "Assets/NeonArena/Scripts/PlayerController.cs",
+    "sourceCommit": "194552fa4946abbb4e2642f084f801e4f58806e2",
+    "sha256": "9d38671f6f4d990d2d016bb666977f86721a99564ecd595e413cb95cb03dfb63"
+  },
+  {
+    "publicPath": "Code/Runtime/PlayerDash.cs",
+    "sourcePath": "Assets/NeonArena/Scripts/PlayerDash.cs",
+    "sourceCommit": "194552fa4946abbb4e2642f084f801e4f58806e2",
+    "sha256": "5c58f23d8199ed465906567678312f8f92508a78c7a23d7355543f3cb5f63361"
+  },
+  {
+    "publicPath": "Code/Runtime/PlayerFlight.cs",
+    "sourcePath": "Assets/NeonArena/Scripts/PlayerFlight.cs",
+    "sourceCommit": "194552fa4946abbb4e2642f084f801e4f58806e2",
+    "sha256": "68a9ca75dcc056b04a6b0823f3773b2607ba99737e85fea3b0f5deab10cc9327"
+  },
+  {
+    "publicPath": "Code/Runtime/PlayerOverheat.cs",
+    "sourcePath": "Assets/NeonArena/Scripts/PlayerOverheat.cs",
+    "sourceCommit": "194552fa4946abbb4e2642f084f801e4f58806e2",
+    "sha256": "c3e7db4fd17f4b046f1d4e7d7789dd25c484e2df5c1f78e52410f64d7b0cdf44"
+  },
+  {
+    "publicPath": "Code/Runtime/PlayerReadability.cs",
+    "sourcePath": "Assets/NeonArena/Scripts/PlayerReadability.cs",
+    "sourceCommit": "194552fa4946abbb4e2642f084f801e4f58806e2",
+    "sha256": "17c987e5b63e294bb45b13e3542554ca3b53d63f3db7adb86c59952999bc7c5e"
+  },
+  {
+    "publicPath": "Code/Runtime/Projectile.cs",
+    "sourcePath": "Assets/NeonArena/Scripts/Projectile.cs",
+    "sourceCommit": "194552fa4946abbb4e2642f084f801e4f58806e2",
+    "sha256": "e5164e6a95d9095829bfbe622d9176f0d32d7919ca8965c5c8ead46d555585fd"
+  },
+  {
+    "publicPath": "Code/Runtime/ProjectilePool.cs",
+    "sourcePath": "Assets/NeonArena/Scripts/ProjectilePool.cs",
+    "sourceCommit": "194552fa4946abbb4e2642f084f801e4f58806e2",
+    "sha256": "fc5a25e93e869a3f0dc2428510bf45cfe3aef3f392005d8151f37383405bdaa1"
+  },
+  {
+    "publicPath": "Code/Runtime/PulseLaser.cs",
+    "sourcePath": "Assets/NeonArena/Scripts/PulseLaser.cs",
+    "sourceCommit": "194552fa4946abbb4e2642f084f801e4f58806e2",
+    "sha256": "c7f68101e982dc868c4a124c81e7eb98b7aa8b32e628bf705af26926e8e2b995"
+  },
+  {
+    "publicPath": "Code/Runtime/RetargetedMotion.cs",
+    "sourcePath": "Assets/NeonArena/Scripts/RetargetedMotion.cs",
+    "sourceCommit": "194552fa4946abbb4e2642f084f801e4f58806e2",
+    "sha256": "1caa0bc931cad8655fc2603e6f53fe133169277ef6fea48ed1c380afb1f4ef76"
+  },
+  {
+    "publicPath": "Code/Runtime/RicochetGuide.cs",
+    "sourcePath": "Assets/NeonArena/Scripts/RicochetGuide.cs",
+    "sourceCommit": "194552fa4946abbb4e2642f084f801e4f58806e2",
+    "sha256": "27f256f26bca0cd5ad41a40bac19441114c8a2a2ef55ba804299ac1f11e0c9e2"
+  },
+  {
+    "publicPath": "Code/Runtime/RicochetSolver.cs",
+    "sourcePath": "Assets/NeonArena/Scripts/RicochetSolver.cs",
+    "sourceCommit": "194552fa4946abbb4e2642f084f801e4f58806e2",
+    "sha256": "44c377de4840cbed1d1e7c73b55d6a4f01e0d14a44cf683b7a68a4a5334bd05b"
+  },
+  {
+    "publicPath": "Code/Runtime/RiftEnvironment019.cs",
+    "sourcePath": "Assets/NeonArena/Scripts/RiftEnvironment019.cs",
+    "sourceCommit": "194552fa4946abbb4e2642f084f801e4f58806e2",
+    "sha256": "b1b38460aef8dd3169d3ce06b68b8674319b58a78043895287f86b65ce153978"
+  },
+  {
+    "publicPath": "Code/Runtime/RobotLocomotion.cs",
+    "sourcePath": "Assets/NeonArena/Scripts/RobotLocomotion.cs",
+    "sourceCommit": "194552fa4946abbb4e2642f084f801e4f58806e2",
+    "sha256": "daff363ae6bc442c261ed581bda9bfa329f9982e18fbb5bcf26e86e401c54a26"
+  },
+  {
+    "publicPath": "Code/Runtime/SatelliteDistrict.cs",
+    "sourcePath": "Assets/NeonArena/Scripts/SatelliteDistrict.cs",
+    "sourceCommit": "194552fa4946abbb4e2642f084f801e4f58806e2",
+    "sha256": "5bf5ba56eb81ff94fce5b2f1242e93f7e9c520d09a560e2d308b43b1df3b86f5"
+  },
+  {
+    "publicPath": "Code/Runtime/SpawnTelegraph.cs",
+    "sourcePath": "Assets/NeonArena/Scripts/SpawnTelegraph.cs",
+    "sourceCommit": "194552fa4946abbb4e2642f084f801e4f58806e2",
+    "sha256": "020a2ffb9197d8d31845652b05e9805d14f2f1dd45eb303b00e5aefedb0439e1"
+  },
+  {
+    "publicPath": "Code/Runtime/StageExpansion.cs",
+    "sourcePath": "Assets/NeonArena/Scripts/StageExpansion.cs",
+    "sourceCommit": "194552fa4946abbb4e2642f084f801e4f58806e2",
+    "sha256": "16f674476ebfc23af38b01b6abc8ffef547e5cc232d3817c8022556497614d06"
+  },
+  {
+    "publicPath": "Code/Runtime/UpgradeHUD.cs",
+    "sourcePath": "Assets/NeonArena/Scripts/UpgradeHUD.cs",
+    "sourceCommit": "194552fa4946abbb4e2642f084f801e4f58806e2",
+    "sha256": "a3ca8eb9c5c36b090403b80bf1ed5f84b7696a9b20d8efb7e82ad48fa35b9411"
+  },
+  {
+    "publicPath": "Code/Runtime/VehiclePlacement016.cs",
+    "sourcePath": "Assets/NeonArena/Scripts/VehiclePlacement016.cs",
+    "sourceCommit": "194552fa4946abbb4e2642f084f801e4f58806e2",
+    "sha256": "a9b5228f852443dbd191a4f16ebb314818090cf40eeccc3cff6f9e404d1cee8f"
+  },
+  {
+    "publicPath": "Code/Runtime/Weapon.cs",
+    "sourcePath": "Assets/NeonArena/Scripts/Weapon.cs",
+    "sourceCommit": "194552fa4946abbb4e2642f084f801e4f58806e2",
+    "sha256": "841598b9262442fb48a4fef9781afe8fd15b451e25a4853885614ff9436db8b2"
+  },
+  {
+    "publicPath": "Code/Runtime/WeaponLoadout.cs",
+    "sourcePath": "Assets/NeonArena/Scripts/WeaponLoadout.cs",
+    "sourceCommit": "194552fa4946abbb4e2642f084f801e4f58806e2",
+    "sha256": "ccf67d5647fb819e11492817b067b87cc54d8e77b87dc8dbf1856d2020eb2f5b"
+  },
+  {
+    "publicPath": "Code/Runtime/WeaponVisual.cs",
+    "sourcePath": "Assets/NeonArena/Scripts/WeaponVisual.cs",
+    "sourceCommit": "194552fa4946abbb4e2642f084f801e4f58806e2",
+    "sha256": "1597559bbfce5a20138d3b0a7dcc6f01ab13ff601ff9d8d6458b7bc4354cc6a6"
+  },
+  {
+    "publicPath": "Code/Tests/ArenaPlayModeTests.cs",
+    "sourcePath": "Assets/NeonArena/Tests/PlayMode/ArenaPlayModeTests.cs",
+    "sourceCommit": "194552fa4946abbb4e2642f084f801e4f58806e2",
+    "sha256": "fefada24cfd0affc791c7dc3d2b31f664f674546d0a7bf7db86ec6f7529f2d4c"
+  },
+  {
+    "publicPath": "Code/Tests/Blade031Tests.cs",
+    "sourcePath": "Assets/NeonArena/Tests/PlayMode/Blade031Tests.cs",
+    "sourceCommit": "194552fa4946abbb4e2642f084f801e4f58806e2",
+    "sha256": "479e2f9a88ef348300d985752df76af4f3139c0dce12f2c055d691c4ca95e8ff"
+  },
+  {
+    "publicPath": "Code/Tests/CameraAudio017Tests.cs",
+    "sourcePath": "Assets/NeonArena/Tests/PlayMode/CameraAudio017Tests.cs",
+    "sourceCommit": "194552fa4946abbb4e2642f084f801e4f58806e2",
+    "sha256": "c9783cac809b3aa28eb248ca128f4794450254474fb5bc6e3da0a7c4d7e1a5c3"
+  },
+  {
+    "publicPath": "Code/Tests/CityCombatTests.cs",
+    "sourcePath": "Assets/NeonArena/Tests/PlayMode/CityCombatTests.cs",
+    "sourceCommit": "194552fa4946abbb4e2642f084f801e4f58806e2",
+    "sha256": "2ffff29dbe42225b1b6ba3b1f7ef146487a4904a5a0997f506516f3737a62be1"
+  },
+  {
+    "publicPath": "Code/Tests/CityOperationTests.cs",
+    "sourcePath": "Assets/NeonArena/Tests/PlayMode/CityOperationTests.cs",
+    "sourceCommit": "194552fa4946abbb4e2642f084f801e4f58806e2",
+    "sha256": "245b05ee430c9df2ed22769189340524454f666960a204de1325d1faa086f955"
+  },
+  {
+    "publicPath": "Code/Tests/CombatVfx027Tests.cs",
+    "sourcePath": "Assets/NeonArena/Tests/PlayMode/CombatVfx027Tests.cs",
+    "sourceCommit": "194552fa4946abbb4e2642f084f801e4f58806e2",
+    "sha256": "305ce0bc0479d5a35521e5142579ecb7e2d3ae5cfad51091bef65c64601082c2"
+  },
+  {
+    "publicPath": "Code/Tests/Day35Tests.cs",
+    "sourcePath": "Assets/NeonArena/Tests/PlayMode/Day35Tests.cs",
+    "sourceCommit": "194552fa4946abbb4e2642f084f801e4f58806e2",
+    "sha256": "431bfba169d2cba5daeebe5f537b2dbce0bfde8295054807c586361e996db93f"
+  },
+  {
+    "publicPath": "Code/Tests/DetailAimTests.cs",
+    "sourcePath": "Assets/NeonArena/Tests/PlayMode/DetailAimTests.cs",
+    "sourceCommit": "194552fa4946abbb4e2642f084f801e4f58806e2",
+    "sha256": "f3b110b34242b2947442f6b829339da1631ba2a581d2ea19edb67ed5cca8bfb6"
+  },
+  {
+    "publicPath": "Code/Tests/DistrictTests.cs",
+    "sourcePath": "Assets/NeonArena/Tests/PlayMode/DistrictTests.cs",
+    "sourceCommit": "194552fa4946abbb4e2642f084f801e4f58806e2",
+    "sha256": "a5397cd634b70864ece7796ec0b856e135b561c14788869f59f708eac2790898"
+  },
+  {
+    "publicPath": "Code/Tests/EncounterDiagnostics.cs",
+    "sourcePath": "Assets/NeonArena/Tests/PlayMode/EncounterDiagnostics.cs",
+    "sourceCommit": "194552fa4946abbb4e2642f084f801e4f58806e2",
+    "sha256": "9af64f5b17c0a55edbf5b27ae4564ae3061489f20764d14a3a18f72377fbfe41"
+  },
+  {
+    "publicPath": "Code/Tests/Enemy026Tests.cs",
+    "sourcePath": "Assets/NeonArena/Tests/PlayMode/Enemy026Tests.cs",
+    "sourceCommit": "194552fa4946abbb4e2642f084f801e4f58806e2",
+    "sha256": "a66c1c17263394217d4518372ae6b7e6a6e2a9e06aa3dbcf5af354d3422d27a2"
+  },
+  {
+    "publicPath": "Code/Tests/Frontier018Tests.cs",
+    "sourcePath": "Assets/NeonArena/Tests/PlayMode/Frontier018Tests.cs",
+    "sourceCommit": "194552fa4946abbb4e2642f084f801e4f58806e2",
+    "sha256": "9ffbc3874b1afd1acf51f0a125453882335e70a571d1b3605c979c237c9ab21c"
+  },
+  {
+    "publicPath": "Code/Tests/Frontier026LevelTests.cs",
+    "sourcePath": "Assets/NeonArena/Tests/PlayMode/Frontier026LevelTests.cs",
+    "sourceCommit": "194552fa4946abbb4e2642f084f801e4f58806e2",
+    "sha256": "c8bfd9a82cc2f37e2b548c5cb15d6c4dd13e218e5aa0efadceea05edeb4cc075"
+  },
+  {
+    "publicPath": "Code/Tests/Frontier029LevelTests.cs",
+    "sourcePath": "Assets/NeonArena/Tests/PlayMode/Frontier029LevelTests.cs",
+    "sourceCommit": "194552fa4946abbb4e2642f084f801e4f58806e2",
+    "sha256": "6a6e4cfbdc163f83804836070300e79cca20e6e2d805624ce52fbaa1ea4fdcc4"
+  },
+  {
+    "publicPath": "Code/Tests/Frontier030LevelTests.cs",
+    "sourcePath": "Assets/NeonArena/Tests/PlayMode/Frontier030LevelTests.cs",
+    "sourceCommit": "194552fa4946abbb4e2642f084f801e4f58806e2",
+    "sha256": "0587507fa0b1c6a0a7ddb4b0519ab7ba0348e4e04a5ee308dcd62f26fc38f9d7"
+  },
+  {
+    "publicPath": "Code/Tests/FrontierPolishTests.cs",
+    "sourcePath": "Assets/NeonArena/Tests/PlayMode/FrontierPolishTests.cs",
+    "sourceCommit": "194552fa4946abbb4e2642f084f801e4f58806e2",
+    "sha256": "f04cbbd8141e68a4a9c754cf222bd8b30d843fe1d7adbb3cd77938bfd2ab02e8"
+  },
+  {
+    "publicPath": "Code/Tests/FrontierTests.cs",
+    "sourcePath": "Assets/NeonArena/Tests/PlayMode/FrontierTests.cs",
+    "sourceCommit": "194552fa4946abbb4e2642f084f801e4f58806e2",
+    "sha256": "8c8b871a7bf04fb86885d2d955d2c3d70cebb8659931e0f67ebf212cea730110"
+  },
+  {
+    "publicPath": "Code/Tests/Motion026Tests.cs",
+    "sourcePath": "Assets/NeonArena/Tests/PlayMode/Motion026Tests.cs",
+    "sourceCommit": "194552fa4946abbb4e2642f084f801e4f58806e2",
+    "sha256": "f7f54ebaf0cbcb943f5f94963cd1835f53111b90b0a764c5788f97836fc00d74"
+  },
+  {
+    "publicPath": "Code/Tests/Motion027Tests.cs",
+    "sourcePath": "Assets/NeonArena/Tests/PlayMode/Motion027Tests.cs",
+    "sourceCommit": "194552fa4946abbb4e2642f084f801e4f58806e2",
+    "sha256": "065a4c859da171647f6f5a0d0c91c2145941f025709a3705d2fc16bb9b0ddd91"
+  },
+  {
+    "publicPath": "Code/Tests/Motion028Tests.cs",
+    "sourcePath": "Assets/NeonArena/Tests/PlayMode/Motion028Tests.cs",
+    "sourceCommit": "194552fa4946abbb4e2642f084f801e4f58806e2",
+    "sha256": "344596428d1da4c74968d315b5a993bb085be7c22b57a17bec0f67ad1881e074"
+  },
+  {
+    "publicPath": "Code/Tests/OverheatTests.cs",
+    "sourcePath": "Assets/NeonArena/Tests/PlayMode/OverheatTests.cs",
+    "sourceCommit": "194552fa4946abbb4e2642f084f801e4f58806e2",
+    "sha256": "022cfc1050dddfe7ff94f6ab628151d08397675483412dc745d59134dffb0c09"
+  },
+  {
+    "publicPath": "Code/Tests/Polish09Tests.cs",
+    "sourcePath": "Assets/NeonArena/Tests/PlayMode/Polish09Tests.cs",
+    "sourceCommit": "194552fa4946abbb4e2642f084f801e4f58806e2",
+    "sha256": "65b2e35f9a43a4b24f6950d29dc7866a072c5ff167c1b7023e4e3cbf9e11fedd"
+  },
+  {
+    "publicPath": "Code/Tests/PresentationTests.cs",
+    "sourcePath": "Assets/NeonArena/Tests/PlayMode/PresentationTests.cs",
+    "sourceCommit": "194552fa4946abbb4e2642f084f801e4f58806e2",
+    "sha256": "500d4eea060d0caa47e65d0d604c2511bc4d6cbe4b418d56ef362a20e0952fd4"
+  },
+  {
+    "publicPath": "Code/Tests/ProgressionTests.cs",
+    "sourcePath": "Assets/NeonArena/Tests/PlayMode/ProgressionTests.cs",
+    "sourceCommit": "194552fa4946abbb4e2642f084f801e4f58806e2",
+    "sha256": "58157969345f503a9b2380455e5cf9bd724697b521842fa451927bacf645e768"
+  },
+  {
+    "publicPath": "Code/Tests/ProgressiveWorldTests.cs",
+    "sourcePath": "Assets/NeonArena/Tests/PlayMode/ProgressiveWorldTests.cs",
+    "sourceCommit": "194552fa4946abbb4e2642f084f801e4f58806e2",
+    "sha256": "7af2368a810ef46898e8eb86fe59f5d3718a88c241baf12f28de3546dd23d466"
+  },
+  {
+    "publicPath": "Code/Tests/RefinementTests.cs",
+    "sourcePath": "Assets/NeonArena/Tests/PlayMode/RefinementTests.cs",
+    "sourceCommit": "194552fa4946abbb4e2642f084f801e4f58806e2",
+    "sha256": "b78c8a9cdaf8fccee873175fd76e33e38d60535cefb85ac5ebd3ee7f5d83e27d"
+  },
+  {
+    "publicPath": "Code/Tests/TacticsTests.cs",
+    "sourcePath": "Assets/NeonArena/Tests/PlayMode/TacticsTests.cs",
+    "sourceCommit": "194552fa4946abbb4e2642f084f801e4f58806e2",
+    "sha256": "4b5770e67559ab6dc17a4ab69f156982d42318c762616004b23fc96b425bf4c4"
+  }
+]

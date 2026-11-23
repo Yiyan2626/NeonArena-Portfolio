@@ -1,0 +1,25 @@
+{
+  "sourceCommit": "194552fa4946abbb4e2642f084f801e4f58806e2",
+  "historicalResults": [
+    {
+      "scope": "Full regression before final finger-bone fix",
+      "total": 208,
+      "passed": 208,
+      "failed": 0,
+      "startTimeUTC": "2026-10-23 11:18:18Z",
+      "endTimeUTC": "2026-10-23 11:21:03Z",
+      "rawReportSHA256": "66bb4c5f6d5c24e94d1eae9d09c4d8606d91864ce2ed44203ac62d94d3311d10"
+    },
+    {
+      "scope": "Targeted motion/overheat regression after final finger-bone fix",
+      "total": 17,
+      "passed": 17,
+      "failed": 0,
+      "startTimeUTC": "2026-10-23 11:31:58Z",
+      "endTimeUTC": "2026-10-23 11:32:15Z",
+      "rawReportSHA256": "864ab86e29ae7245f4ab93a1b9ffb96f67e14095912e84e76eafb738af49496f"
+    }
+  ],
+  "publicSnapshotTestsRun": false,
+  "reason": "This is a source-code review snapshot; licensed art, scenes, prefabs and the full Unity project are excluded."
+}
